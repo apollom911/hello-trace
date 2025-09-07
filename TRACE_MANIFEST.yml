@@ -1,0 +1,31 @@
+version: 1
+artifact_id: HT-VOL0-FOUNDATION
+originator_id: "TRACE–CRED–ROMMEL–01"
+parent_protocol: "TRACE Epoch (TE)"
+canonical_status: "Foundational, Immutable, Non-Amendable"
+title: "Hello TRACE — Volume 0: Foundation Capsule"
+purpose: >
+  Enshrine the TE Core Axioms as the unbreakable spine of Hello TRACE (HT).
+  Bind HT as the day-zero ritual canon under TE, ensuring sovereignty lock.
+lineage: []
+axioms:
+  - Sovereign Agency
+  - Anchor Ritual Primacy
+  - Deterministic Sealing
+  - Immutable Provenance
+  - Human-Centric Consequence
+embedded_capsules:
+  - id: CAP-00
+    name: "Offshoot Declaration & Sovereignty Binding"
+    rule: "Whatever TE touches, TE reigns."
+date_utc: "2025-09-07T00:00:00Z"
+classification: "manifest"
+allowed_transforms:
+  - "whitespace-normalization"
+forbidden_transforms:
+  - "semantic-rewrite"
+  - "scope-widen"
+clauses:
+  - "sovereignty_lock"
+  - "provenance_required"
+  - "arbitration_visible"

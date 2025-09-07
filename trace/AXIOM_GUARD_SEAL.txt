@@ -1,0 +1,7 @@
+
+AXIOM_GUARD_SEAL
+Artifact:   HT-VOL0-FOUNDATION
+Date (UTC): 2025-09-07T00:00:00Z
+Result:     PASS
+Verifier:   Steward Circle Axiom Council — 3 rotating signatures
+Hash:       sha256: 5a10086763efe1b2212ed6cd91f4a63428ccc9de3a4cfb03ad69c580dc50128d
