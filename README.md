@@ -1,3 +1,5 @@
+[![GENESIS Block](https://img.shields.io/badge/Genesis-v0-blue)](#genesis)
+
 # Hello TRACE — Volume 0: Foundation Capsule
 
 This repository contains the canonical **Genesis Bundle** of Hello TRACE (HT),  
